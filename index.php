@@ -59,7 +59,7 @@
         <p class="teaching-desc">
           <b>UC Berkeley</b> &middot; Spring 2018
           <br>
-          <a href="https://inst.eecs.berkeley.edu/~cs170/sp18">CS 170: Efficient Algorithms and Intractable Problems</a>
+          <a href="https://inst.eecs.berkeley.edu/~cs170/sp18">CS 170: Efficient Algorithms &amp; Intractable Problems</a>
           <span class="largescr-only">&nbsp;</span><br class="smallscr-only">
           <a class="button" href="https://owenjow.xyz/cs170">Section Page</a>
         </p>
@@ -72,7 +72,7 @@
         <p class="teaching-desc">
           <b>UC Berkeley</b> &middot; Spring 2016, Fall 2016, Spring 2017
           <br>
-          <a href="http://www-inst.eecs.berkeley.edu/~cs61a/sp17">CS 61A: Structure and Interpretation of Computer Programs</a>
+          <a href="http://www-inst.eecs.berkeley.edu/~cs61a/sp17">CS 61A: Structure &amp; Interpretation of Computer Programs</a>
           <span class="largescr-only">&nbsp;</span><br class="smallscr-only">
           <a class="button" href="https://owenjow.xyz/cs61a">Section Page</a>
         </p>
