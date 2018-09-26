@@ -75,6 +75,10 @@ p.enfilade {
   .largescr-only {
     display: none;
   }
+  p.teaching-desc {
+    margin-block-start: 0.3em;
+    margin-block-end: 1.5em;
+  }
 }
 
 /*

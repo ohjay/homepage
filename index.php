@@ -43,12 +43,12 @@
     <div class="row">
       <div class="col-proj-pic"><img src="img/similartri.jpg"></div>
       <div class="col-proj-desc">
-        <p>
+        <p class="teaching-desc">
           <b>UC San Diego</b> &middot; Fall 2018
           <br>
           <a href="https://ucsd-cse-152.github.io">CSE 152: Introduction to Computer Vision</a>
           <span class="largescr-only">&nbsp;</span><br class="smallscr-only">
-          <a class="button" href="https://owenjow.xyz/cse152">Section Homepage</a>
+          <a class="button" href="https://owenjow.xyz/cse152">Section Page</a>
         </p>
       </div>
     </div>
@@ -56,12 +56,12 @@
     <div class="row">
       <div class="col-proj-pic"><img src="img/dominating.png"></div>
       <div class="col-proj-desc">
-        <p>
+        <p class="teaching-desc">
           <b>UC Berkeley</b> &middot; Spring 2018
           <br>
           <a href="https://inst.eecs.berkeley.edu/~cs170/sp18">CS 170: Efficient Algorithms and Intractable Problems</a>
           <span class="largescr-only">&nbsp;</span><br class="smallscr-only">
-          <a class="button" href="https://owenjow.xyz/cs170">Section Homepage</a>
+          <a class="button" href="https://owenjow.xyz/cs170">Section Page</a>
         </p>
       </div>
     </div>
@@ -69,12 +69,12 @@
     <div class="row">
       <div class="col-proj-pic"><img src="img/ant_firequeen.gif"></div>
       <div class="col-proj-desc">
-        <p>
+        <p class="teaching-desc">
           <b>UC Berkeley</b> &middot; Spring 2016, Fall 2016, Spring 2017
           <br>
           <a href="http://www-inst.eecs.berkeley.edu/~cs61a/sp17">CS 61A: Structure and Interpretation of Computer Programs</a>
           <span class="largescr-only">&nbsp;</span><br class="smallscr-only">
-          <a class="button" href="https://owenjow.xyz/cs61a">Section Homepage</a>
+          <a class="button" href="https://owenjow.xyz/cs61a">Section Page</a>
         </p>
       </div>
     </div>
