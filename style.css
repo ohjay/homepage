@@ -1,0 +1,156 @@
+@import url('https://fonts.googleapis.com/css?family=Jaldi|Raleway');
+
+h1 {
+  text-align: center;
+  margin: 0 0 10px 0;
+}
+
+html {
+  height: 100%;
+}
+
+body {
+  height: 100%;
+  margin: 0px;
+  padding: 0px;
+  font-family: 'Jaldi', sans-serif;
+}
+
+h1, h2 {
+  font-family: 'Raleway', sans-serif; /* else PT Sans */
+}
+
+a {
+  text-decoration: none;
+  -webkit-transition: all 0.1s ease-in-out;
+  -moz-transition: all 0.1s ease-in-out;
+  transition: all 0.1s ease-in-out;
+  color: #006A96;
+  font-weight: bold;
+}
+
+a:hover, a:focus {
+  color: #00C6D7;
+}
+
+.button {
+  background: #FCAD26;
+  color: #FFFFFF;
+  padding: 2px 10px;
+  border: none;
+  outline: none;
+  border-radius: 10px;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  -webkit-transition: all 0.1s ease-in-out;
+  -moz-transition: all 0.1s ease-in-out;
+  transition: all 0.1s ease-in-out;
+  display: inline-block;
+  font-weight: bold;
+  font-size: 80%;
+}
+
+.button:hover, .button:focus {
+  background: #F58500;
+  color: #FFFFFF;
+}
+
+p.enfilade {
+  margin-block-start: 0.2em;
+}
+
+.heading {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.smallscr-only {
+  display: none;
+}
+
+@media only screen and (max-width: 900px) {
+  .smallscr-only {
+    display: inline;
+  }
+  .largescr-only {
+    display: none;
+  }
+}
+
+/*
+ * The following styles originate from
+ * http://prosello.com/portfolio.css.
+ */
+
+* {
+  box-sizing: border-box;
+}
+
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+[class*="col-"] {
+  width: 100%;
+}
+
+.col-prof-pic {
+  margin: auto;
+}
+
+.col-proj-pic {
+  display: none;
+}
+
+#wrapper {
+  width: max-width;
+  padding: 15px;
+}
+
+@media only screen and (min-width: 500px) {
+  #wrapper {
+    max-width: 750px;
+    margin: auto;
+  }
+  .col-bio {
+    max-width: 65%;
+  }
+  .col-prof-pic {
+    float: right;
+    margin-left: 20px;
+  }
+  .col-proj-pic {
+    max-width: 25%;
+    float: left;
+    display: inline;
+    padding-right: 20px;
+  }
+  .col-proj-desc {
+    max-width: 75%;
+    float: left;
+  }
+}
+
+@media only screen and (max-width: 499px) {
+  .col-prof-pic {
+    margin-bottom: 20px;
+  }
+}
+
+.col-proj-pic img {
+  max-width: 100%;
+}
+
+.cropcircle {
+  border-radius: 100%;
+  background: #eee no-repeat center;
+}
+
+#profile-img {
+  width: 288px;
+  height: 191px;
+  background-image: url(https://raw.githubusercontent.com/ohjay/ohjay.github.io/master/images/flavorShot.jpg);
+  background-size: cover;
+}
