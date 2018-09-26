@@ -87,15 +87,13 @@
     <div class="row">
       <p align="right">
         <em>This website is based on <a href="https://jonbarron.info/">Jon Barron's</a>.</em><br>
-        <span id="last-modified"></span>
+        <?php
+        $file = __FILE__;
+        $lastmod = date("M d, Y \a\\t h:i A O", filemtime($file));
+        echo "<em>Last updated: ".$lastmod.".</em>";
+        ?>
       </p>
     </div>
   </div>
-
-  <script type="text/javascript">
-    window.addEventListener('load', function() {
-      document.getElementById('last-modified').innerHTML = '<em>Last updated ' + document.lastModified.split(' ')[0] + '.</em>';
-    });
-  </script>
 </body>
 </html>
