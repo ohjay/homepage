@@ -41,6 +41,19 @@
     </div>
 
     <div class="row">
+      <div class="col-proj-pic"><img src="img/hanoi.png"></div>
+      <div class="col-proj-desc">
+        <p class="teaching-desc">
+          <b>UC San Diego</b> &middot; Winter 2019
+          <br>
+          <a href="https://sites.google.com/a/eng.ucsd.edu/cse-21-winter-2019">CSE 21: Math for Algorithms</a>
+          <span class="largescr-only">&nbsp;</span><br class="smallscr-only">
+          <a class="button" href="https://owenjow.xyz/cse21">Section Page</a>
+        </p>
+      </div>
+    </div>
+
+    <div class="row">
       <div class="col-proj-pic"><img src="img/similartri.jpg"></div>
       <div class="col-proj-desc">
         <p class="teaching-desc">
