@@ -57,7 +57,7 @@
       <div class="col-proj-pic"><img src="img/similartri.jpg"></div>
       <div class="col-proj-desc">
         <p class="teaching-desc">
-          <b>UC San Diego</b> &middot; Fall 2018
+          <b>UC San Diego</b> &middot; Fall 2018, Spring 2019
           <br>
           <a href="https://ucsd-cse-152.github.io">CSE 152: Introduction to Computer Vision</a>
           <span class="largescr-only">&nbsp;</span><br class="smallscr-only">
