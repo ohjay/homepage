@@ -13,7 +13,7 @@
       <div id="profile-img" class="col-prof-pic"></div>
       <div class="col-bio">
         <h1>Owen Jow</h1>
-        <p>I'm a first-year master's student at <a href="https://cse.ucsd.edu">UC San Diego</a>, specializing in computer graphics and vision. I did my undergrad at <a href="https://eecs.berkeley.edu/">UC Berkeley</a>, along the way conducting VR/robotics research in Pieter Abbeel's group. During the summer of 2018, I worked at <a href="https://research.adobe.com/">Adobe Research</a> with Duygu Ceylan.</p>
+        <p>I'm a master's student at <a href="https://cse.ucsd.edu">UC San Diego</a>, specializing in computer graphics and vision and working with Ravi Ramamoorthi. I did my undergrad at <a href="https://eecs.berkeley.edu/">UC Berkeley</a>, along the way conducting VR/robotics research in Pieter Abbeel's group. During the summers of 2018 and 2019, I worked at <a href="https://research.adobe.com/">Adobe Research</a> with Duygu Ceylan, Krishna Mullia, and Miloš Hašan.</p>
       </div>
     </div>
 
@@ -38,6 +38,17 @@
 
     <div class="row heading">
       <h2>Teaching</h2>
+    </div>
+
+    <div class="row">
+      <div class="col-proj-pic"><img src="img/photometric_stereo.png"></div>
+      <div class="col-proj-desc">
+        <p class="teaching-desc">
+          <b>UC San Diego</b> &middot; Fall 2019
+          <br>
+          <a href="https://cseweb.ucsd.edu/classes/fa19/cse252A-a">CSE 252A: Computer Vision I</a>
+        </p>
+      </div>
     </div>
 
     <div class="row">
